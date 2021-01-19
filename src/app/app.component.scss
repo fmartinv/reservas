@@ -1,0 +1,12 @@
+.sala {
+  &.active {
+    ul {
+      li {
+        color: #333;
+      }
+    }
+  }
+}
+h1 {
+  font-size: 2.2em;
+}
