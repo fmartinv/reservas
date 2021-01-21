@@ -17,6 +17,7 @@ export class AppComponent implements OnInit {
    */
   users = ['Jimi Hendrix', 'Gustavo Cerati', 'Ricardo Mollo'];
 
+
   salas: ISala[];
 
   ngOnInit() {
