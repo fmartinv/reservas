@@ -36,6 +36,10 @@ export class AppComponent implements OnInit {
         name: 'Sala 3',
         horarios: this.getHorarios('MJS'),
       },
+      {
+        name: 'Sala 4',
+        horarios: this.getHorarios('LMV'),
+      },
     ];
 
   }
